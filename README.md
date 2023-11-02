@@ -47,3 +47,8 @@ Translating text between English and Hinglish can be challenging due to the mix 
    ```bash
    python -u app.py
    ```
+
+7. Or you can use 
+   [Google Colab Notebook](https://colab.research.google.com/drive/1UXVVCpWx-epQ9sOHD0XTxwmqTsrNxcyX?usp=sharing)
+
+
