@@ -2,12 +2,6 @@
 
 English-to-Hinglish Translation is a project that utilizes the power of state-of-the-art natural language processing techniques to translate English text into Hinglish (a mixture of Hindi and English). This project is built on the Transformers library, offering accurate and reliable translations while preserving easy English words.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
